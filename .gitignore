@@ -57,3 +57,5 @@ dkms.conf
 # custom files
 salis/
 bin/
+src/main.c
+build.py
